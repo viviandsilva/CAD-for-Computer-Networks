@@ -1,0 +1,12 @@
+Algo	AODV	Nodes	100	PTx(mW)	1	TrafInt	0.1	TxBytes	1.335e+07	RxBytes	133500	    efficiency	1%
+Algo	AODV	Nodes	100	PTx(mW)	500	TrafInt	0.1	TxBytes	1.335e+07	RxBytes	913500	    efficiency	6.8427%
+Algo	AODV	Nodes	100	PTx(mW)	1	TrafInt	0.5	TxBytes	6.75e+07	RxBytes	673500	    efficiency	0.997778%
+Algo	AODV	Nodes	100	PTx(mW)	500	TrafInt	0.5	TxBytes	6.75e+07	RxBytes	3.5085e+06	efficiency	5.19778%
+Algo	AODV	Nodes	100	PTx(mW)	1	TrafInt	0.9	TxBytes	1.2135e+08	RxBytes	1.2135e+06	efficiency	1%
+Algo	AODV	Nodes	100	PTx(mW)	500	TrafInt	0.9	TxBytes	1.2135e+08	RxBytes	3.867e+06	efficiency	3.18665%
+Algo	OLSR	Nodes	100	PTx(mW)	1	TrafInt	0.1	TxBytes	1.335e+07	RxBytes	103500	    efficiency	0.775281%
+Algo	OLSR	Nodes	100	PTx(mW)	500	TrafInt	0.1	TxBytes	1.335e+07	RxBytes	2.061e+06	efficiency	15.4382%
+Algo	OLSR	Nodes	100	PTx(mW)	1	TrafInt	0.5	TxBytes	6.75e+07	RxBytes	517500	    efficiency	0.766667%
+Algo	OLSR	Nodes	100	PTx(mW)	500	TrafInt	0.5	TxBytes	6.75e+07	RxBytes	7.1115e+06	efficiency	10.5356%
+Algo	OLSR	Nodes	100	PTx(mW)	1	TrafInt	0.9	TxBytes	1.2135e+08	RxBytes	931500	    efficiency	0.767614%
+Algo	OLSR	Nodes	100	PTx(mW)	500	TrafInt	0.9	TxBytes	1.2135e+08	RxBytes	9.1695e+06	efficiency	7.55624%
